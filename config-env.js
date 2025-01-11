@@ -22,7 +22,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "PRABATH-MD~XA8ymTbY#k-vXGmsS6ZzcltPEUoOMstFc9dniRfytg-8bGU9y2lI",
 BOT_NUMBER: process.env.BOT_NUMBER || "27848444234",
-PASSWORD: process.env.PASSWORD || "zidimalik012",
-GITHUB_USERNAME: process.env.GITHUB_USERNAME || "malikg012",
+PASSWORD: process.env.PASSWORD || "null",
+GITHUB_USERNAME: process.env.GITHUB_USERNAME || "prabathLK-PRABATH-MD",
 GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "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"
 };
