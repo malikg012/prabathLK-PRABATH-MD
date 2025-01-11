@@ -12,7 +12,7 @@
     },  
 
     "PASSWORD": {
-      "description": "zidimalik012",
+      "description": "null",
       "required": true
     },
 
@@ -22,7 +22,7 @@
     },
     
     "GITHUB_USERNAME": {
-      "description": "malikg012",
+      "description": "prabathLK-PRABATH-MD",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
